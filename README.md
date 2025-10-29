@@ -49,7 +49,8 @@ Database file used in this analysis:
 
 ## 🧠 SQL Queries & Analysis  
 
-(Queries omitted here for brevity — will be available in full SQL script file)
+All the SQL queries used for this project are available in the following file:  
+🔗 [**View Full SQL File on GitHub →**](https://github.com/abinash16216/Music_store_analysis/blob/main/SQL_Music_Store_Analysis.sql)
 
 ---
 
